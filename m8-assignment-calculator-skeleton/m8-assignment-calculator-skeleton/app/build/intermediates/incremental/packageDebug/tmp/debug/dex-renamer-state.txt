@@ -1,0 +1,7 @@
+#Sun Aug 23 04:54:46 PKT 2020
+base.0=/home/muhammadammarabid/AndroidStudioProjects/m8-assignment-calculator-skeleton/m8-assignment-calculator-skeleton/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/muhammadammarabid/AndroidStudioProjects/m8-assignment-calculator-skeleton/m8-assignment-calculator-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

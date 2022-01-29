@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c533b7b3-108f-44f7-887a-6088378cd3fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gTUiFarEvOQZiMiZw10s9YtDuZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../helloworld" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c533b7b3-108f-44f7-887a-6088378cd3fb" name="Default Changelist" comment="" />
+      <created>1598138200052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598138200052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608300547064">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1608300547064" />
+    <state x="691" y="278" key="FileChooserDialogImpl" timestamp="1608600690839">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="691" y="278" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1608600690839" />
+    <state x="419" y="155" key="SettingsEditor" timestamp="1608300636392">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="419" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1608300636392" />
+    <state x="119" y="154" width="1720" height="790" maximized="true" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1608300539945">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="119" y="154" width="1720" height="790" maximized="true" key="com.android.tools.idea.avdmanager.AvdListDialog/0.27.1920.988@0.27.1920.988" timestamp="1608300539945" />
+    <state x="550" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1608484571155">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="550" y="347" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1608484571155" />
+    <state x="24" y="243" width="1886" height="553" key="new project wizard" timestamp="1603945695733">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="24" y="243" width="1886" height="553" key="new project wizard/0.27.1920.988@0.27.1920.988" timestamp="1603945695733" />
+    <state x="1103" y="241" key="search.everywhere.popup" timestamp="1603945115505">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="1103" y="241" key="search.everywhere.popup/0.27.1920.988@0.27.1920.988" timestamp="1603945115505" />
+  </component>
+</project>

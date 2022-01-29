@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10be4a26-1fc8-43e5-ba66-59d2c67fe5a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gQOoxaR4JrcOiycqvip29oGLqX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../helloworld" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Android App.runnner">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="Android API 30 Platform" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="m3-assignment-shapes-skeleton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.runnner" />
+      <item itemvalue="Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10be4a26-1fc8-43e5-ba66-59d2c67fe5a0" name="Default Changelist" comment="" />
+      <created>1598043527942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598043527942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="138" width="771" height="763" key="#Unnamed" timestamp="1598051388377">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="569" y="138" width="771" height="763" key="#Unnamed/0.27.1920.988@0.27.1920.988" timestamp="1598051388377" />
+    <state x="422" y="125" width="1222" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598053173043">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="422" y="125" width="1222" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1598053173043" />
+    <state x="817" y="204" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598051832389">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="817" y="204" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.988@0.27.1920.988" timestamp="1598051832389" />
+    <state x="569" y="138" width="771" height="763" key="#runnner" timestamp="1598052077172">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="569" y="138" width="771" height="763" key="#runnner/0.27.1920.988@0.27.1920.988" timestamp="1598052077172" />
+    <state x="691" y="278" key="FileChooserDialogImpl" timestamp="1598053178458">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="691" y="278" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1598053178458" />
+    <state width="946" height="243" key="GridCell.Tab.0.bottom" timestamp="1598053180218">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="946" height="243" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1598053180218" />
+    <state width="946" height="243" key="GridCell.Tab.0.center" timestamp="1598053180217">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="946" height="243" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1598053180217" />
+    <state width="946" height="243" key="GridCell.Tab.0.left" timestamp="1598053180217">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="946" height="243" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1598053180217" />
+    <state width="946" height="243" key="GridCell.Tab.0.right" timestamp="1598053180217">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="946" height="243" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1598053180217" />
+    <state x="838" y="155" key="SettingsEditor" timestamp="1598053041092">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="838" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1598053041092" />
+    <state x="338" y="125" width="1482" height="790" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598053013522">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="338" y="125" width="1482" height="790" key="com.android.tools.idea.avdmanager.AvdListDialog/0.27.1920.988@0.27.1920.988" timestamp="1598053013522" />
+    <state x="550" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1598047331286">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="550" y="348" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1598047331286" />
+  </component>
+</project>
